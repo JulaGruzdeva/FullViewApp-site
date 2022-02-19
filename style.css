@@ -51,6 +51,7 @@ header{
     float: left;    
 }
 .leftbar a{
+    font-size: 18px;
     margin: 0 15px;
     text-decoration: none;
     color: black;
